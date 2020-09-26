@@ -1,0 +1,21 @@
+Exercise 1.1
+
+Tractable
+
+I'm really bad at coming up with ideas -- I can only generate good ideas at a completely random time and place due to some random observation I might have made or end up making. 
+
+But I think a tractable idea would be some sort of social events app tailored to inform students about all types of Calvin events. Currently, I think most students might not even know about some events happening on campus. These are advertised (from what I know so far) mainly through fliers or student news emails which many might end up missing.
+
+So this app would focus on all types of events that have been planned to happen on campus -- whether that be sporting events, club meetings, interesting talks/seminars, SAO events, and so on. A centralized database would be needed for people to input information about these events and each head of the event would need to be timely about giving updates about that event making it much more convenient for students to find out what is currently happening or will be happening on campus, set reminders, get notified about event updates, and possibly form parties with their friends so they can attend together. 
+
+This got very ambitious as I thought more and more about it, and may not be so tractable...
+
+
+Wacky
+
+An app focusing on helping students and staff on campus with miscellaneous tasks (such as delivering some items to some location, helping to get print outs for someone, helping someone to get their groceries, fast food items, or boba tea even -- which may be more tailored to upperclassmen who don’t own a car and need some immediate services) — basically a type of Uber service but focused more on running simple errands and miscellaneous activities for the people of the Calvin community, when those people themselves can't get something done due to circumstances. People would submit requests to a system where they specify as best as possible what needs to be done as part of their errand/chore and other people in the community can accept those requests on a first come first serve basis. 
+
+It would be a great way for various people to interact across the community and get to know all types of people across the campus. This is just a very wacky idea that I thought would be convenient for some people who may not be able to complete such tasks due to circumstances or are simply just sometimes too lazy, like me :) 
+
+Now that I think about this, I think it's probably just things you could ask friends to do...
+

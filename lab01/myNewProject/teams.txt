@@ -1,0 +1,26 @@
+Exercise 1.2
+
+1. Demographics:
+	a. Junior
+	b. BCS
+	c. A, A
+
+2. Technical
+	I've used JavaScript very little before so I'm a little familiar with that, but I've barely worked with SQL and know very little about it.
+
+	I have used all three (Slack, Trello, Git/Github) very little before in order to work on various small team projects. My experience with all of these is also very minimal. 
+
+	I'm quite open to anything really as long as it doesn't get extremely technical (which it probably would anyways), and I would preferably like it to be a somewhat creative and also maybe wacky idea. So a social media type of app that may be useful to the community here seems like it would be a fun project to work on, but I'm quite flexible and just want to learn and work alongside my friends.
+
+3. Personality
+	I am an empathic idealist and it looks like my results follow an emotional pattern.
+
+	My scores:
+	Openness: 69, Conscientiousness: 54, Extraversion: 40, Agreeableness: 69, Neuroticism:73
+
+	I’d like to work with my housemates as that would be convenient 
+	(Zach Chin, Nathan Wang) and possibly also any of my other friends who can fit in the team as well (Jack Westel, Ha-Ram Koo, Duncan VanKeulen, Hyechan Jun, Andrew Baker, Josh Ridder, Jacob Brink, Jacob Bennett, Joel Muyskens). We all know each other quite well, and live prretty close to each other's apartments so it would be convenient to meet up with them to ask questions or discuss ideas.
+
+4. Anything else?
+I can be very slow at adapting to new things and generally tend to be a slow coder, but I’ll do my best to support the team however I can.
+
