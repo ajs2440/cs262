@@ -12,4 +12,5 @@ Lab exercise completed by: Advait Scaria
 User id: ajs244
 Date: 09/26/2020
 
+App documentation:
 Gamezone is an app to experiment with navigation through multiple screens and custom fonts.
