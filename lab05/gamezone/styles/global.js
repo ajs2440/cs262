@@ -3,7 +3,8 @@ import { StyleSheet } from 'react-native';
 export const globalStyles = StyleSheet.create({
   titleText: {
     fontSize: 18,
-    fontFamily: 'nunito-bold',
+    fontFamily: 'nunito-regular',
+    // fontWeight: 'bold',
     color: '#333',
   },
   paragraph: {
@@ -12,7 +13,6 @@ export const globalStyles = StyleSheet.create({
   },
   container: {
     flex: 1,
-    fontFamily: 'nunito-regular',
     padding: 20,
   },
 });
