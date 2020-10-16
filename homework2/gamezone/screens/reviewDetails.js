@@ -1,3 +1,10 @@
+/*
+ * CS 262 Homework 2
+ * Completed by: Advait Scaria
+ *
+ * Displays property values from fetched data from data service
+ */
+
 import React from 'react';
 import { StyleSheet, View, Text } from 'react-native';
 import { globalStyles } from '../styles/global';
