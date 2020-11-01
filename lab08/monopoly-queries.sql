@@ -54,9 +54,9 @@ SELECT *
  ;
 
 -- Retrieve a list of IDs for players who have some game score larger than 2000.
-  SELECT score
-    FROM PlayerGame
-   WHERE score > 2000
+SELECT score
+  FROM PlayerGame
+ WHERE score > 2000
    ;
 
 -- Retrieve a list of players who have GMail accounts.
@@ -72,7 +72,7 @@ SELECT *
  SELECT score
    FROM Player, PlayerGame
   WHERE Player.name = 'The King'
-  ORDER BY score DESC;
+  ORDER BY score DESC
   ;
 -- Retrieve the name of the winner of the game played on 2006-06-28 13:20:00.
  SELECT Player.name
