@@ -1,0 +1,9 @@
+Module changed: KeeperEditorScreen.js
+
+Changes made:
+- Changed all string to use singlequotes instead of doublequotes
+- Fixed dangling commas
+- Fixed semicolon issues so that the file doesn't use any
+
+Changes not made:
+- ESLint wanted to delete unused variables, but since this file is a work in progress, I chose not to do that
